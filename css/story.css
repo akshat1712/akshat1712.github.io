@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image:url("/photos/background.jpg") ;
+    background-size: cover;
+}
+.navbar{
+    background-color: #e96a6a;
+    border-radius: 5px;
+    padding: 0.1px;
+    border: 5px solid #98b868;
+    margin: 0px;
+}
+a:link{
+    text-decoration: none;
+}
+.navbar li {
+    display: inline;
+    padding: 10px;
+    color: #05386B;
+    font-size: 18px;
+    overflow: auto;
+    text-decoration: none;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+
+#content{
+    margin: 5px;
+    padding: 5px;
+    font-size: 25px;
+    font-family: 'Fuzzy Bubbles', cursive;
+    color:#ffd900;
+}
+.link{
+    color: rgb(255, 0, 0);
+}
+
+#foot{
+    text-align: center;
+    font-weight: 700;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    color:#EDF5E1;
+}
