@@ -167,7 +167,7 @@ html{
     grid-template-rows:  repeat(2,1fr);
     grid-template-columns: repeat(3,1fr);
     background-color: #1d1e20 ;
-    height: 500px;
+    height: 600px;
     padding: 15px;
     padding-top: 0px;
     row-gap: 30px;
@@ -214,9 +214,12 @@ html{
     height: auto;
     padding-top: 10px;
     padding-bottom: 10px;
+    
 }
 .links img{
     width: 60px;
     height: 60px;
     display: inline-block;
+    padding-left: 3px;
+    padding-right: 3px;
 }
